@@ -3,8 +3,8 @@
 // Big O(1) - Constant time
 // Big O(n) - Linear time
 // Big O(n^2) - Quadratic time
-// Big O(nlog(n)) - Logarythmic time
-// Big O(log(n)) - Logarythmic time
+// Big O(nlog(n)) - Logarithmic time
+// Big O(log(n)) - Logarithmic time
 
 // Big O(n) - Linear time
 function addUpToLinearTime(n) {
