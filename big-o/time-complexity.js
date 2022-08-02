@@ -1,10 +1,12 @@
 // Big O Notation - Time Complexity
 // Numeric representation of the performance of code
+// Order of fastest to slowest
 // Big O(1) - Constant time
-// Big O(n) - Linear time
-// Big O(n^2) - Quadratic time
-// Big O(nlog(n)) - Logarithmic time
 // Big O(log(n)) - Logarithmic time
+// Big O(n) - Linear time
+// Big O(nlog(n)) - Logarithmic time
+// Big O(n^2) - Quadratic time
+
 
 // Big O(n) - Linear time
 function addUpToLinearTime(n) {
@@ -23,4 +25,3 @@ function addUpToConstantTime(n) {
 // Print answer
 let answer = addUpTo(4);
 console.log(answer);
-
